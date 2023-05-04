@@ -1,1 +1,1 @@
-# PycharmPractik17.7.3
+# PycharmPractik
